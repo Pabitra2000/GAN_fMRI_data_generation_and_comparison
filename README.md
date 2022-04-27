@@ -1,11 +1,11 @@
-# GAN_fMRI_data_generation
+# GAN_fMRI_data_generation_and_comparison
 
 This project was made for Machine Learning in Signal Processing course offered in IISc in Spring sem. The purpuse is to generate fMRI data from existing fMRI data using Generative Adversial Networks(GANs). The GANs used has been implemented by keras library in python and uses Dense Neural Networks.
 
 The GAN implementation is made by Pabitra Sharma(pabitras@iisc.ac.in)                           
 The rs_fmri code is made by Sveekruth Sheshagiri Pai(sveekruths@iisc.ac.in)
 
-# Referances
+# References
 1.	https://compneuro.neuromatch.io/projects/fMRI/README.html [Neuromatch Academy projects page – curated HCP Data.]
 2.	https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/fMRI/load_hcp.ipynb [Specific Colab notebook adapted for this project.]
 3.	http://www.di.fc.ul.pt/~jpn/r/ica/index.html [Notes on ICA by João Neto, adapted from J Nathan Kutz’s lecture on the same topic.]
